@@ -1,0 +1,45 @@
+Clienti:
+Aiello
+Amato
+Basili
+Bonn
+Gutjahr
+Jaschke
+Lopez
+Mancini
+Parravani
+Pinnati
+Viaggi:
+866 Mancini 1109 4 7 3 10
+3920 Pinnati 939 9 7 2
+1585 Lopez 867 6 5 10
+4748 Parravani 858 4 7 3
+4142 Aiello 636 1 3 2
+1631 Jaschke 451 7 9
+5701 Amato 363 2 5
+2132 Gutjahr 261 8 2
+5238 Basili 251 10 3
+4114 Bonn 161 8 4
+Posizioni: 1 4 10 8 9
+Eventi:
+866 CHIAMATA 4 Mancini
+1585 CHIAMATA 2 Lopez
+1631 CHIAMATA 5 Jaschke
+2132 CHIAMATA 1 Gutjahr
+2165 FINE_SERVIZIO 4 Mancini
+2533 FINE_SERVIZIO 5 Jaschke
+2761 FINE_SERVIZIO 2 Lopez
+3290 FINE_SERVIZIO 1 Gutjahr
+3920 CHIAMATA 0 Pinnati
+4114 CHIAMATA 0 Bonn
+4142 CHIAMATA 3 Aiello
+4748 CHIAMATA 0 Parravani
+5203 FINE_SERVIZIO 3 Aiello
+5238 CHIAMATA 2 Basili
+5688 FINE_SERVIZIO 2 Basili
+5701 CHIAMATA 0 Amato
+Rifiuti: 4
+Ricariche: 0
+Tempo totale: 5697
+Guadagno: 10571
+UB: 29216
