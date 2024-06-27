@@ -34,7 +34,7 @@ Pour plus d'informations sur le sujet, ouvrez le document PDF `sujet.pdf`.
 
 1. Clonez le dépôt
 ```bash
-git clone ...
+git clone https://github.com/kelvinlefort/taxis-autonomes.git
 ```
 
 ## Compilation
@@ -85,9 +85,9 @@ make clean
 6. **`flotte.c`**: Gère la flotte de taxis autonomes.
 7. **`gestionnaire_evenements.c`**: S'occupe de la gestion des évènements discrets.
 8. **`graphe.c`**: Gère le réseau routier, par exemple le calcul du plus court chemin avec l'algorithme de Dijkstra.
-9. **`liste_01.c`**: Conçoit la struture d'une liste et ses fonctions avec comme éléments le type `Element_01`.
-10. **`liste_02.c`**: Conçoit la struture d'une liste et ses fonctions avec comme éléments le type `Element_02`.
-11. **`matrice.c`**: Conçoit la structure d'une matrice et ses fonctions.
+9. **`liste_01.c`**: Conçoit la struture d'une liste d'éléments de type `Element_01`.
+10. **`liste_02.c`**: Conçoit la struture d'une liste d'éléments de type `Element_02`.
+11. **`matrice.c`**: Conçoit la structure d'une matrice.
 12. **`voyages.c`**: Gère les voyages.
 13. **`main.c`**: Point d'entrée qui initialise et lance la simulation.
 
